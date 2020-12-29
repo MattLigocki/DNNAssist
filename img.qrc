@@ -1,0 +1,50 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>res/loadingShutter.png</file>
+        <file>res/round_close_fullscreen_white_48dp.png</file>
+        <file>res/round_fullscreen_white_48dp.png</file>
+        <file>res/camera.png</file>
+        <file>res/memory.png</file>
+        <file>res/settings.png</file>
+        <file>res/show_chart.png</file>
+        <file>res/visibility.png</file>
+        <file>res/moreVert.png</file>
+        <file>res/play.png</file>
+        <file>res/stop.png</file>
+        <file>res/detected.png</file>
+        <file>res/tensorflow.png</file>
+        <file>res/fi-xnsuxx-tensorflow.png</file>
+        <file>res/opencv_icon.png</file>
+        <file>res/data_icon.png</file>
+        <file>res/pause.png</file>
+        <file>res/pngwave.png</file>
+        <file>res/left-arrow.png</file>
+        <file>res/settings_black.png</file>
+        <file>res/tensorflow.jpg</file>
+        <file>res/darknet.png</file>
+        <file>res/mcf.png</file>
+        <file>res/mlpack.jpg</file>
+        <file>res/opencv.png</file>
+        <file>res/dynet.png</file>
+        <file>res/showchart_black.png</file>
+        <file>res/camera_black.png</file>
+        <file>res/cloud_black.png</file>
+        <file>res/youtube.png</file>
+        <file>res/brain.png</file>
+        <file>res/dumbbell.png</file>
+        <file>res/caffe.png</file>
+        <file>res/yologo.png</file>
+        <file>res/round_check_black_48dp.png</file>
+        <file>res/round_check_white_48dp.png</file>
+        <file>res/Torch.png</file>
+        <file>res/ONNX.png</file>
+        <file>res/DLDT.png</file>
+        <file>res/round_insert_photo_black_48dp.png</file>
+        <file>res/round_local_movies_black_48dp.png</file>
+        <file>res/round_computer_black_48dp.png</file>
+        <file>res/round_wifi_black_48dp.png</file>
+        <file>res/cctv.png</file>
+        <file>res/round_link_black_48dp.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
